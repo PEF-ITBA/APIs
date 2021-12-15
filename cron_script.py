@@ -17,4 +17,8 @@ folderName = curDate + '_' + curTime
 # make a directory
 os.mkdir(folderName)
 
+import requests
+
+request.get()
+
 print('carpeta creada!')
